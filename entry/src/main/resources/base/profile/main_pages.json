@@ -1,0 +1,32 @@
+{
+  "src": [
+    "pages/SplashPage",
+    "pages/GuidePage",
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/Index",
+    "pages/SearchResultPage",
+    "pages/MessageCenterPage",
+    "pages/AnnouncementDetailPage",
+    "pages/NewsDetailPage",
+    "pages/CampusMapPage",
+    "pages/BuildingDetailPage",
+    "pages/CourseEditPage",
+    "pages/CourseDetailPage",
+    "pages/BookDetailPage",
+    "pages/LostFoundPublishPage",
+    "pages/LostFoundDetailPage",
+    "pages/FoodDetailPage",
+    "pages/MusicListPage",
+    "pages/ProfileEditPage",
+    "pages/SettingsPage",
+    "pages/NotificationSettingsPage",
+    "pages/FavoritesPage",
+    "pages/MyCoursesPage",
+    "pages/MyScoresPage",
+    "pages/MyLostFoundPage",
+    "pages/AboutPage",
+    "pages/ForgotPasswordPage",
+    "pages/FeedbackPage"
+  ]
+}

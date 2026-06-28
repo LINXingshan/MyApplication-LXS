@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+oh_modules/
+
+# Build outputs
+**/build/
+**/.preview/
+
+# Hvigor build cache
+.hvigor/
+
+# IDE
+.idea/
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+*.log
+build_errors.txt
+build_log.txt
+
+# Clang (HarmonyOS NDK)
+.cxx
+.clangd
+.clang-format
+.clang-tidy
+
+# Test outputs
+**/.test
+.appanalyzer
